@@ -4,9 +4,9 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 
 #Installation Procedure
 
-First, Download the GitHub Repository as a .zip file.
-Extract the folder and open the subfolder computer vision
-Right click and select the open in terminal option
-Then run the command python main.py
-The model should launch automatically
-Press spacebar to exit the model.
+*First, Download the GitHub Repository as a .zip file.
+*Extract the folder and open the subfolder computer vision
+*Right click and select the open in terminal option
+*Then run the command python main.py
+*The model should launch automatically
+*Press spacebar to exit the model.
