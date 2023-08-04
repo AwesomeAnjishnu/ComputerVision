@@ -9,7 +9,7 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 ***
 2. Extract the folder and open the subfolder computer vision
 ***
-3. Right click and select the open in terminal option
+3. Right click anywhere inside the subfolder and select the open in terminal option
 ***
 4. Then run the command python main.py
 ***
