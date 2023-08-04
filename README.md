@@ -7,7 +7,7 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 ***
 1. First, Download the GitHub Repository as a .zip file.
 ***
-2. Extract the folder and open the subfolder computer vision
+2. Extract the folder and open the subfolder Computer Vision
 ***
 3. Right click anywhere inside the subfolder and select the open in terminal option
 ***
