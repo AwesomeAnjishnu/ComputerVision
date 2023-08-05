@@ -21,4 +21,4 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 # Public Release Installation Procedure
 
 ***
-1. Go to [a relative link] (Public Release 1.0)
+1. Go to [PUBLIC RELEASE 1.0](https://github.com/AwesomeAnjishnu/ComputerVision/blob/main/PUBLIC%20RELEASE%201.0)
