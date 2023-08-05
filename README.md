@@ -17,7 +17,7 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 6. Sit back and enjoy your YOLO program!
 ***
 
-### Python Installation Procedure
+## Python Installation Procedure
 
 ***
 1. First, Download the GitHub Repository as a .zip file.
