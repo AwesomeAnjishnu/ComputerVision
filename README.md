@@ -1,6 +1,21 @@
 # ComputerVision
 A computer vision project that harnesses the power of YOLO algorithms for real-time object detection, enabling machines to recognize day-to-day objects with remarkable speed and accuracy. By leveraging this innovative technology and a vast dataset, the software can quickly process multiple objects and differentiate between them.
 
+## Public Release Installation Procedure
+
+***
+1. Go to [PUBLIC RELEASE 1.0](https://github.com/AwesomeAnjishnu/ComputerVision/blob/main/PUBLIC%20RELEASE%201.0)
+***
+2. Open the Google drive link and download the zip folder
+***
+3. Extract the folder and run the main.exe file
+***
+4. If you encounter any errors try disabling your antivirus and try again
+***
+5. Read the Exit Notes for futher info.
+***
+6. Sit back and enjoy your YOLO program!
+***
 
 ### Python Installation Procedure
 
@@ -18,7 +33,3 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 6. Press spacebar to exit the model.
 ***
 
-# Public Release Installation Procedure
-
-***
-1. Go to [PUBLIC RELEASE 1.0](https://github.com/AwesomeAnjishnu/ComputerVision/blob/main/PUBLIC%20RELEASE%201.0)
