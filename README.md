@@ -2,7 +2,7 @@
 A computer vision project that harnesses the power of YOLO algorithms for real-time object detection, enabling machines to recognize day-to-day objects with remarkable speed and accuracy. By leveraging this innovative technology and a vast dataset, the software can quickly process multiple objects and differentiate between them.
 
 
-### Installation Procedure
+### Python Installation Procedure
 
 ***
 1. First, Download the GitHub Repository as a .zip file.
@@ -17,3 +17,8 @@ A computer vision project that harnesses the power of YOLO algorithms for real-t
 ***
 6. Press spacebar to exit the model.
 ***
+
+# Public Release Installation Procedure
+
+***
+1. Go to [a relative link] (Public Release 1.0)
